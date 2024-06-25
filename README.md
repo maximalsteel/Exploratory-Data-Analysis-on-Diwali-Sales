@@ -17,7 +17,3 @@ This project involves performing an exploratory data analysis (EDA) on the Diwal
 - **Pandas**: For data manipulation and analysis.
 - **Matplotlib and Seaborn**: For creating static visualizations.
 
-
-## Acknowledgments
-
-This project was inspired by and follows the methodology outlined in the YouTube video tutorial by [Rishab Mishra]. The analysis and visualizations closely follow the steps demonstrated in their video.
